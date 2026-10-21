@@ -1,0 +1,16 @@
+# Build output
+build/
+cmake-build-*/
+out/
+
+# CLion project settings
+.idea/
+
+# Local CMake files
+CMakeUserPresets.json
+compile_commands.json
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
